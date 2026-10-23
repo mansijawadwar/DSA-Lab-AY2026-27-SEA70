@@ -1,6 +1,7 @@
 // Name: Mansi Santhosh Jawadwar
 // Roll No.: SEA70
-
+// Practical No.: 3
+//Title: Searching Contact Names Using Sequential Search and Binary Search
 
 #include <stdio.h>
 #include <string.h>
