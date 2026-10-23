@@ -1,3 +1,7 @@
+// Name: Mansi Santhosh Jawadwar
+// Roll No.: SEA70
+
+
 #include <stdio.h>
 #include <string.h>
 
