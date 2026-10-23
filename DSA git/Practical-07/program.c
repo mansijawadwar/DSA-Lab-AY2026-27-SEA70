@@ -1,6 +1,8 @@
 
 // Name: Mansi Santhosh Jawadwar
 // Roll No.: SEA70
+// Practical No.:7
+// Dynamic Text Editor Using Singly Linked List
 
 
 #include <stdio.h>
