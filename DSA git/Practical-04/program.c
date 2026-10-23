@@ -1,5 +1,7 @@
 // Name: Mansi Santhosh Jawadwar
 // Roll No.: SEA70
+// Practical.:4
+//Decimal to Binary Conversion Using Stack
 
 
 #include <stdio.h>
