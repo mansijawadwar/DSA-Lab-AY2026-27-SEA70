@@ -1,3 +1,8 @@
+
+// Name: Mansi Santhosh Jawadwar
+// Roll No.: SEA70
+
+
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct SLL
