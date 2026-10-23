@@ -1,5 +1,7 @@
 // Name: Mansi Santhosh Jawadwar
 // Roll No.: SEA70
+// Practical No.:2
+//Student Result Database Management Using Array of Structures
 
 
 #include <stdio.h>
