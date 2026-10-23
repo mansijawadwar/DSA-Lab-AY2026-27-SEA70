@@ -1,5 +1,5 @@
-// Name: Pranav Gajanan Daud
-// Roll No.: SEA59
+// Name: Mansi Santhosh Jawadwar
+// Roll No.: SEA70
 // Practical No. 1
 // Program to display different patterns using numbers, alphabets, and asterisks.
 
